@@ -1,4 +1,4 @@
-# Entity RPG Chat — Oracle of the Abstract
+# Entity RPG Chat 
 
 A poetic, mysterious, and entirely unhinged character language model you can talk to — powered by open-source LLMs, LoRA fine-tuning, and lightweight Retrieval-Augmented Generation (RAG). Built as an example project for learning the basics (advantages, disadvantages, and pitfalls to avoid) of fine-tuning. Created for one of Major League Hacking's Global Hack Weeks (Open-Source GHW, May 2025)
 
@@ -65,7 +65,7 @@ entity_rpg_chat/
 |       └── entity_lore.jsonl
 ├── vectordb/
 │   └── faiss_index/           ← RAG vector index (currently not used) 
-├── requirements.txt
+└── requirements.txt
 ```
 
 ---
