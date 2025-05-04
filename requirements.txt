@@ -1,0 +1,8 @@
+streamlit==1.35.0
+transformers==4.40.2
+peft==0.10.0
+accelerate==0.30.0
+bitsandbytes==0.43.1
+sentence-transformers==2.6.1
+faiss-cpu==1.7.4
+torch==2.2.2
