@@ -1,6 +1,6 @@
 # Entity RPG Chat 
 
-A poetic, mysterious, and entirely unhinged character language model you can talk to — powered by open-source LLMs, LoRA fine-tuning, and lightweight Retrieval-Augmented Generation (RAG). Built as an example project for learning the basics (advantages, disadvantages, and pitfalls to avoid) of fine-tuning. Created for one of Major League Hacking's Global Hack Weeks (Open-Source GHW, May 2025)
+A poetic, mysterious, and entirely unhinged character language model you can talk to - powered by open-source LLMs, LoRA fine-tuning, and lightweight Retrieval-Augmented Generation (RAG). Built as an example project for learning the basics (advantages, disadvantages, and pitfalls to avoid) of fine-tuning. Created for one of Major League Hacking's Global Hack Weeks (Open-Source GHW, May 2025)
 
 ---
 
@@ -21,7 +21,7 @@ This project uses **4-bit quantized models** and **LoRA adapters**, which are no
 
 If you must run on Windows, you will need a custom fork of `bitsandbytes` compiled for Windows. One community workaround is documented here: https://www.mindfiretechnology.com/blog/archive/installing-bitsandbtyes-for-windows-so-that-you-can-do-peft/
 
-Use at your own risk. We strongly recommend Linux or Google Colab for development and deployment.
+Use at your own risk. I strongly recommend Linux or Google Colab for development and deployment.
 
 ---
 
